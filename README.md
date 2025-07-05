@@ -20,4 +20,4 @@ Once in the program, enter the requested commands to choose your adventure!
 
 
 ## License
-Adventure Game is Copyright © 2020 Elena Silverwood.
+Adventure Game is Copyright © 2020 Skyler Blick
